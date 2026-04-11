@@ -1,0 +1,6 @@
+RECURSIVIDADE
+É quado uma função chama ela mesma com intuito de resolvela por partes, como por exemplo um exercício de fatorial;
+EX:
+Fatorial de 5 => 5! = 5*4*3*2*1 => 5! = 120;
+o problema foi resolvido por partes, começando pela multiplicação de 5*4 = 20, depois 20*3 = 60 e assim até chegar
+no resultado final 120.
